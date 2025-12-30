@@ -1,7 +1,7 @@
 # variance_analyzer.py
 Python tool that analyzes budget vs actual performance, calculates variances, and generates summary insights and visual output for FP&amp;A-style reporting.
 
---
+
 
 # Budget vs Actual Variance Analyzer
 A lightweight Python tool that performs budget vs actual analysis, calculates financial variances, and generates a summary table and visualization commonly used in FP&A and financial analyst workflows.
